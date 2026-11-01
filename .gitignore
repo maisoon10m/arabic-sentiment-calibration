@@ -1,0 +1,13 @@
+# Never upload these
+kaggle.json
+*.tsv
+data/ar_reviews_100k*
+models/
+results/logits/
+results/mcdropout/
+results/normalized/
+*.safetensors
+*.bin
+*.npz
+.ipynb_checkpoints/
+__pycache__/
